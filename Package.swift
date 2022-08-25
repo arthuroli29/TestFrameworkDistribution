@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
                     name: moduleName,
-                    url: "https://github.com/arthuroli29/\(moduleName)/releases/download/\(version)/\(moduleName).xcframework.zip",
+                    url: "https://github.com/arthuroli29/\(moduleName)Distribution/releases/download/\(version)/\(moduleName).xcframework.zip",
                     checksum: checksum
         )
     ]
