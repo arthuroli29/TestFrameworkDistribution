@@ -3,9 +3,9 @@
 
 import PackageDescription
 
-let version = "1.0.0"
-let moduleName = "NetworkModule"
-let checksum = "8f42f67a0665798e1c4e149c73a36fb9dddc062bc90e3b4e077ea571613ddda1"
+let version = "1.0.4"
+let moduleName = "TestFramework"
+let checksum = "5e2628698a2798940b0959d1c1ad2838f5dcfcd0b3bc40194035e98ac21ccb9f"
 
 let package = Package(
     name: moduleName,
