@@ -3,9 +3,9 @@
 
 import PackageDescription
 
-let version = "1.0.7"
+let version = "1.0.8"
 let moduleName = "TestFramework"
-let checksum = "53ab1f0b3bf7ff3da765291dca8f8decb7532d6158cce2b62eb90631a3531e2c"
+let checksum = "04291870d632829b0664eef6a99ae5e2bb262473aa14bdcf4c7418e6316f1772"
 
 let package = Package(
     name: moduleName,
